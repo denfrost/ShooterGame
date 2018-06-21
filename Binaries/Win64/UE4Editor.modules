@@ -1,0 +1,8 @@
+{
+	"BuildId": "3944462",
+	"Modules": 
+	{
+		"ShooterGame": "UE4Editor-ShooterGame.dll",
+		"ShooterGameLoadingScreen": "UE4Editor-ShooterGameLoadingScreen.dll"
+	}
+}
